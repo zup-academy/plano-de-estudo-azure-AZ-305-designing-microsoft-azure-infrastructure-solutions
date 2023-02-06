@@ -11,6 +11,40 @@ A preparação e a obtenção desta certificação demonstrarão:
 - Criar soluções de continuidade dos negócios 
 - Criar soluções de infraestrutura 
 
+### Por quê obter a certificação Designing Microsoft Azure Infrastructure Solutions (motivação do plano de estudo)
+
+Há várias razões pelas quais alguém pode optar por obter a certificação Designing Microsoft Azure Infrastructure Solutions:
+
+- Validação de habilidades: a certificação demonstra que o indivíduo tem conhecimento e habilidades na implementação e gerenciamento de soluções de infraestrutura em nuvem usando o Microsoft Azure.
+
+- Destaque no mercado de trabalho: a certificação é amplamente reconhecida e procurada por empregadores em todo o mundo. Ter a certificação pode ajudar a se destacar entre outros candidatos.
+
+- Aumento de salário: os profissionais certificados geralmente têm salários mais elevados do que aqueles sem certificação.
+
+- Oportunidades de crescimento profissional: a certificação pode abrir novas oportunidades de carreira para aqueles que buscam crescimento profissional na área de nuvem.
+
+- Atualização de habilidades: obter a certificação exige que o indivíduo mantenha-se atualizado com as últimas tendências e tecnologias na nuvem do Microsoft Azure.
+
+- Diferenciação: a certificação Microsoft Azure é uma forma de se destacar em um mercado altamente competitivo, já que a maioria dos profissionais de nuvem está familiarizada com o AWS, mas não necessariamente com o Microsoft Azure.
+
+- Conhecimento da tecnologia Microsoft: a certificação pode ajudar a desenvolver e aperfeiçoar conhecimentos sobre a tecnologia Microsoft, incluindo o Microsoft Azure e outras soluções Microsoft.
+
+### Pré requisitos
+
+A Microsoft não estabelece pré-requisitos oficiais para a certificação Designing Microsoft Azure Infrastructure Solutions, mas recomenda que os candidatos tenham conhecimento prévio de:
+
+- Fundamentos de nuvem: conceitos de nuvem, incluindo escalabilidade, disponibilidade, segurança e gerenciamento de recursos.
+
+- Microsoft Azure: ter familiaridade com os serviços do Microsoft Azure, como Virtual Machines, Storage Accounts, Networking, entre outros.
+
+- Soluções de infraestrutura em nuvem: experiência em projetar e implementar soluções de infraestrutura em nuvem, incluindo alta disponibilidade, recuperação após desastre e gerenciamento de identidade.
+
+- Conhecimento de rede: ter conhecimento básico de redes, incluindo conceitos de sub-redes, gateways, endereços IP, etc.
+
+- Conhecimento de segurança: ter conhecimento sobre segurança de nuvem, incluindo autenticação, autorização e criptografia.
+
+Em geral, a Microsoft recomenda que os candidatos tenham pelo menos alguma experiência prévia em projetar e implementar soluções de infraestrutura em nuvem antes de se prepararem para a certificação. Além disso, existem muitos cursos e recursos de treinamento disponíveis que podem ajudar a se preparar para a prova.
+
 ### palavras chaves
 
 - Azure Monitor
@@ -100,6 +134,52 @@ A prova é dividida em domínios:
   		- Assinaturas do Azure
   		- Zonas de destino do Azure
 
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+- Design para governança.
+
+- Design para grupos de gerenciamento.
+
+- Design para assinaturas do Azure.
+
+- Design para grupos de recursos.
+
+- Design para marcação de recurso.
+
+- Design para política do Azure.
+
+- Design para controle de acesso baseado em função do Azure.
+
+- Design para o Azure Blueprints.
+
+- Projetar para gerenciamento de identidades e acesso.
+
+- Projetar para o Azure Active Directory.
+
+- Projetar para o B2B (entre empresas) do Azure Active Directory.
+
+- Projetar para o B2C (entre empresa e cliente) do Azure Active Directory.
+
+- Projetar para acesso condicional.
+
+- Projetar para proteção de identidade.
+
+- Projetar para revisões de acesso.
+
+- Projetar para identidades gerenciadas.
+
+- Projete para entidades de serviço para aplicativos.
+
+- Projete para o Azure Key Vault.
+
+- Design para fontes de dados do Azure Monitor
+
+- Design para os workspaces dos Logs (Log Analytics) do Azure Monitor
+
+- Design para Insights do Azure e Pastas de Trabalho do Azure
+
+- Design para Azure Data Explorer
+
 - Elaborar soluções de armazenamento de dados
 
 	- Criar uma solução de armazenamento de dados para dados relacionais  		
@@ -120,6 +200,52 @@ A prova é dividida em domínios:
   		- Azure Synapse Analytics
   		- Azure Stream Analytics
   
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+- Criar o armazenamento de dados.
+
+- Criar as contas de armazenamento do Azure.
+
+- Criar o armazenamento de blob do Azure.
+
+- Cria a redundância de dados.
+
+- Criar os arquivos do Azure.
+
+- Criar soluções de disco do Azure.
+
+- Criar a segurança de armazenamento.
+
+- Criar um Banco de Dados SQL do Azure.
+
+- Criar uma Instância Gerenciada de SQL do Azure.
+
+- Crie para o SQL Server em Máquinas Virtuais do Azure.
+
+- Recomendar uma solução para escalabilidade do banco de dados.
+
+- Recomende uma solução para disponibilidade de banco de dados.
+
+- Crie designs de proteção para dados inativos, em transmissão e em uso.
+
+- Criar um SQL do Azure no Edge.
+
+- Criar para o Azure Cosmos DB.
+
+- Crie para o Armazenamento de Tabelas do Azure.
+
+- Elabore uma solução de integração de dados com o Azure Data Factory.
+
+- Elabore uma solução de integração de dados com o Azure Data Lake.
+
+- Elabore uma integração de dados e solução analítica com o Azure Databricks.
+
+- Elabore uma integração de dados e solução analítica com o Azure Synapse Analytics.
+
+- Cria estratégias para caminhos de dados hot, warm e cold.
+
+- Elabora uma solução do Azure Stream Analytics para análise de dados.
+
 - Elaborar soluções de continuidade dos negócios
   
   - Criar uma solução para backup e recuperação de desastre
@@ -132,7 +258,35 @@ A prova é dividida em domínios:
   		- Azure Site recovery
   		- Azure Front Door
   		- Gerenciador de Tráfego do Azure
-  
+
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+- Identificar os requisitos de disponibilidade dos recursos do Azure.
+
+- Criar para o Azure Front Door.
+
+- Criar para o Gerenciador de Tráfego do Azure.
+
+- Recomendar uma solução de alta disponibilidade para Computação.
+
+- Recomendar uma solução de alta disponibilidade para armazenamento de dados relacionais.
+
+- Recomendar uma solução de alta disponibilidade para armazenamento de dados não relacionais.
+
+- Projetar para backup e recuperação.
+
+- Projetar para o Backup do Azure.
+
+- Projetar para backup e recuperação de blobs do Azure.
+
+- Projetar para backup e recuperação de Arquivos do Azure.
+
+- Projetar para backup e recuperação de máquinas virtuais do Azure.
+
+- Projetar backup e recuperação do SQL do Azure.
+
+- Projetar para o Azure Site Recovery.
+
 - Criar soluções de infraestrutura
 
   - Criar uma solução de computação do Azure
@@ -155,7 +309,65 @@ A prova é dividida em domínios:
   		- Integração de API
   		- Microsoft Cloud Adoption Framework para o Azure
 			- Redes virtuais do Azure
-  
+
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+- Escolher um serviço de computação do Azure.
+
+- Criar soluções para Máquinas Virtuais do Azure.
+
+- Projetar soluções para o Lote do Azure.
+
+- Criar soluções para o Serviço de Aplicativo do Azure.
+
+- Projetar soluções para as Instâncias de Contêiner do Azure.
+
+- Projetar soluções para o Serviço de Kubernetes do Azure.
+
+- Criar soluções para o Azure Functions.
+
+- Criar soluções para os Aplicativos Lógicos do Azure.
+
+- Descrever cenários de mensagens e eventos.
+
+- Criar uma solução de mensagens.
+
+- Crie uma solução de mensagens usando os Hubs de Eventos do Azure.
+
+- Criar uma solução orientada por eventos.
+
+- Projetar uma solução de implantação de aplicativo automatizada.
+
+- Projetar a integração da API.
+
+- Criar uma solução de gerenciamento de configuração de aplicativo.
+
+- Crie uma solução de cache.
+
+- Recomendar uma solução de arquitetura de rede com base nos requisitos de carga de trabalho
+
+- Projetar conectividade local para redes virtuais do Azure
+
+- Projetar para serviços de conectividade de rede do Azure
+
+- Projetar para serviços de entrega de aplicativos
+
+- Projetar para serviços de proteção de aplicativos
+
+- Avaliar a migração com o Microsoft Cloud Adoption Framework para o Azure
+
+- Descrever o Programa de Migração e Modernização do Azure (Estrutura de Migração do Azure)
+
+- Avaliar suas carga de trabalho locais
+
+- Selecionar uma ferramenta de migração
+
+- Migrar seus bancos de dados
+
+- Selecionar uma ferramenta de migração de armazenamento online
+
+- Migrar dados offline
+
 Aqui reside a doc oficial sobre a certificação, com todo material sobre, incluindo a opção de agendar o exame:
 
 https://learn.microsoft.com/pt-br/certifications/exams/az-305
@@ -277,9 +489,17 @@ Um bom score nos simulados pode dar uma boa pista de como está o entendimento s
 
 ### Pessoas que são autoridade sobre o tema
 
-- Arquitetos de soluções
-- Devops/Sre's
-- Pessoas já certificadas
+Anthony Bartolo (Principal Leading Academic Cloud Advocacy @ Microsoft)
+
+Linkedin: https://www.linkedin.com/in/wirelesslife/
+
+Twitter: https://twitter.com/WirelessLife
+
+Leonardo Silva dos Santos (Especialista Devops) 
+
+Linkedin: https://www.linkedin.com/in/rmnobarra/
+
+Twitter: https://twitter.com/rmnobarra
 
 ### Fontes de consumo fácil
 
